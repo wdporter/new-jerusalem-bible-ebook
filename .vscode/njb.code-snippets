@@ -1,0 +1,12 @@
+{
+	"p": {
+		"scope": "html",
+		"prefix": "p",
+		"body": [
+			"</p>",
+			"",
+			"<p>"
+		],
+		"description": "end para and stat new para"
+	}
+}

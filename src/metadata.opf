@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:identifier opf:scheme="uuid" id="uuid_id">cdbab127-64be-4b29-ae13-f63f7cde3c74</dc:identifier>
+		<dc:title>Jerusalem Bible</dc:title>
+		<dc:creator opf:file-as="Jerusalem Bible" opf:role="aut">Jerusalem Bible</dc:creator>
+		<dc:contributor opf:file-as="Porter, W. David" opf:role="bkp">David Porter</dc:contributor>
+		<dc:language>eng</dc:language>
+	</metadata>
+	<manifest>
+		<item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml" />
+		<item id="genesis" href="genesis.xhtml"  media-type="application/xhtml+xml" />
+		<item id="exodus" href="exodus.xhtml"  media-type="application/xhtml+xml" />
+
+		<item id="chronicles1" href="chronicles1.xhtml"  media-type="application/xhtml+xml" />
+
+		<item id="job" href="job.xhtml"  media-type="application/xhtml+xml" />
+
+		<item id="matthew" href="matthew.xhtml"  media-type="application/xhtml+xml" />
+		<item id="mark" href="mark.xhtml"  media-type="application/xhtml+xml" />
+		<item id="luke" href="luke.xhtml"  media-type="application/xhtml+xml" />
+
+		<item id="hebrews" href="hebrews.xhtml" media-type="application/xhtml+xml" />
+		<item id="james" href="james.xhtml" media-type="application/xhtml+xml" />
+		<item id="peter1" href="peter1.xhtml"  media-type="application/xhtml+xml" />
+		<item href="peter2.xhtml" id="2-peter" media-type="application/xhtml+xml" />
+
+		<item href="jude.xhtml" id="jude" media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine>
+		<itemref idref="toc" />
+		<itemref idref="genesis" />
+		<itemref idref="exodus" />
+
+		<itemref idref="chronicles1" />
+
+		<itemref idref="job" />
+
+		<itemref idref="matthew" />
+		<itemref idref="mark" />
+		<itemref idref="luke" />
+
+		<itemref idref="hebrews" />
+		<itemref idref="james" />
+		<itemref idref="peter1" />
+		<itemref idref="peter2" />
+
+		<itemref idref="jude" />
+	</spine>
+	<guide />
+</package>
