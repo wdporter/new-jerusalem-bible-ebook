@@ -1,5 +1,5 @@
 #delete book if exsiting
-remove-item annotated-hlc.epub -ea ig
+remove-item njb.epub -ea ig
 
 #delete dist folder
 remove-item dist -recurse -force
