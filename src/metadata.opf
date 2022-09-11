@@ -19,6 +19,8 @@
 		<item id="matthew" href="matthew.xhtml"  media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml"  media-type="application/xhtml+xml" />
 		<item id="luke" href="luke.xhtml"  media-type="application/xhtml+xml" />
+		<item id="john" href="john.xhtml"  media-type="application/xhtml+xml" />
+		<item id="acts" href="acts.xhtml"  media-type="application/xhtml+xml" />
 
 		<item id="hebrews" href="hebrews.xhtml" media-type="application/xhtml+xml" />
 		<item id="james" href="james.xhtml" media-type="application/xhtml+xml" />
@@ -40,6 +42,8 @@
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
 		<itemref idref="luke" />
+		<itemref idref="john" />
+		<itemref idref="acts" />
 
 		<itemref idref="hebrews" />
 		<itemref idref="james" />
