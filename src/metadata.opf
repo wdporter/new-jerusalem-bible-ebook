@@ -11,6 +11,7 @@
 		<item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml" />
 		<item id="genesis" href="genesis.xhtml"  media-type="application/xhtml+xml" />
 		<item id="exodus" href="exodus.xhtml"  media-type="application/xhtml+xml" />
+		<item id="leviticus" href="leviticus.xhtml"  media-type="application/xhtml+xml" />
 
 		<item id="chronicles1" href="chronicles1.xhtml"  media-type="application/xhtml+xml" />
 
@@ -34,7 +35,7 @@
 		<itemref idref="toc" />
 		<itemref idref="genesis" />
 		<itemref idref="exodus" />
-
+		<itemref idref="leviticus" />
 		<itemref idref="chronicles1" />
 
 		<itemref idref="job" />
