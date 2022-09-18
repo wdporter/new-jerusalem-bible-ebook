@@ -23,6 +23,8 @@
 		<item id="john" href="john.xhtml"  media-type="application/xhtml+xml" />
 		<item id="acts" href="acts.xhtml"  media-type="application/xhtml+xml" />
 
+		<item id="galatians" href="galatians.xhtml"  media-type="application/xhtml+xml" />
+
 		<item id="hebrews" href="hebrews.xhtml" media-type="application/xhtml+xml" />
 		<item id="james" href="james.xhtml" media-type="application/xhtml+xml" />
 		<item id="peter1" href="peter1.xhtml"  media-type="application/xhtml+xml" />
@@ -45,6 +47,8 @@
 		<itemref idref="luke" />
 		<itemref idref="john" />
 		<itemref idref="acts" />
+
+		<itemref idref="galatians" />
 
 		<itemref idref="hebrews" />
 		<itemref idref="james" />
