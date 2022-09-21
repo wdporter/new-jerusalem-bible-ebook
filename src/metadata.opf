@@ -26,6 +26,9 @@
 
 		<item id="galatians" href="galatians.xhtml"  media-type="application/xhtml+xml" />
 
+		<item id="thessalonians1" href="thessalonians1.xhtml"  media-type="application/xhtml+xml" />
+		<item id="thessalonians2" href="thessalonians2.xhtml"  media-type="application/xhtml+xml" />
+
 		<item id="hebrews" href="hebrews.xhtml" media-type="application/xhtml+xml" />
 		<item id="james" href="james.xhtml" media-type="application/xhtml+xml" />
 		<item id="peter1" href="peter1.xhtml"  media-type="application/xhtml+xml" />
@@ -52,6 +55,9 @@
 		<itemref idref="acts" />
 
 		<itemref idref="galatians" />
+
+		<itemref idref="thessalonians1" />
+		<itemref idref="thessalonians2" />
 
 		<itemref idref="hebrews" />
 		<itemref idref="james" />
