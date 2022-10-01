@@ -15,6 +15,15 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 
 
 [readings]
+1 Chronicles 1:1-4
+1 Chronicles 1:5-7, 1 Chronicles 1:8-16, 1 Chronicles 1:17-27
+1 Chronicles 1:28-31
+1 Chronicles 1:32-34 
+1 Chronicles 1:35-54
+1 Chronicles 2:1-2
+1 Chronicles 5:1-6, 1 Chronicles 2:18-55
+1 Chronicles 4:1-23, 1 Chronicles 7:1-5, 1 Chronicles 7:30-40, 1 Chronicles 7:6-12
+1 Chronicles 6:1-4a,
 ✅Numbers 1-2
 ✅Numbers 3:1-4:33
 ✅Numbers 4:34-6:27
@@ -24,9 +33,9 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 ✅Numbers 14-15
 ✅Numbers 16-18
 ✅Numbers 19-21
-Numbers 22-24
-Numbers 25:1-26:34, 1 Chronicles 7:13-19, Numbers 26:35-37, 1 Chronicles 7:20-29, Numbers 26:38-65
-Numbers 27-29
+✅Numbers 22-24
+✅Numbers 25:1-26:34, 1 Chronicles 7:13-19, Numbers 26:35-37, 1 Chronicles 7:20-29, Numbers 26:38-65
+✅Numbers 27-29
 Numbers 30-31
 Numbers 32-33
 Numbers 34-36
@@ -230,7 +239,7 @@ Nehemiah 10-11, Psalms 147
 Nehemiah 13, Psalms 50
 Malachi
 
-✅Mark 16:9-20, Acts 1-2
+✅Acts 1-2
 ✅Acts 3:1-5:16
 ✅Acts 5:17-7:53
 ✅Acts 7:54-9:31
@@ -248,15 +257,8 @@ Malachi
 ✅Acts 15-16
 ✅Acts 17:1-18:17, 
 ✅ Acts 18:18-19:41
-✅1 Corinthians 1-4
-✅1 Corinthians 5-7
-✅1 Corinthians 8:1-11:1
-✅1 Corinthians 11:2-13:13
-✅1 Corinthians 14:1-15:34
-✅1 Corinthians 15:35-16:24, Acts 20:1-6, 2 Corinthians 1:1-2:4
-2 Corinthians 2:5-6:18
-2 Corinthians 7:1-11:15
-2 Corinthians 11:16-13:14, Romans 1
+✅Acts 20:1-6
+Romans 1
 Romans 2-4
 Romans 5:1-8:17
 Romans 8:18-11:10
