@@ -13,6 +13,7 @@
 		<item id="exodus" href="exodus.xhtml" media-type="application/xhtml+xml" />
 		<item id="leviticus" href="leviticus.xhtml" media-type="application/xhtml+xml" />
 		<item id="numbers" href="numbers.xhtml" media-type="application/xhtml+xml" />
+		<item id="deuteronomy" href="deuteronomy.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="chronicles1" href="chronicles1.xhtml" media-type="application/xhtml+xml" />
 
@@ -45,6 +46,7 @@
 		<itemref idref="exodus" />
 		<itemref idref="leviticus" />
 		<itemref idref="numbers" />
+		<itemref idref="deuteronomy" />
 
 		<itemref idref="chronicles1" />
 
