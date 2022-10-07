@@ -1,8 +1,8 @@
 #delete book if exsiting
-remove-item njb.epub -ea ig
+if (test-path njb.epub) { remove-item njb.epub -ea ig }
 
 #delete dist folder
-remove-item dist -recurse -force
+if (test-path dist ) { remove-item dist -recurse -force }
 
 # build the project
 npm run build
