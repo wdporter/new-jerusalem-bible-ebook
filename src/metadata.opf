@@ -28,6 +28,7 @@
 		<item id="corinthians1" href="corinthians1.xhtml"  media-type="application/xhtml+xml" />
 		<item id="corinthians2" href="corinthians2.xhtml"  media-type="application/xhtml+xml" />
 		<item id="galatians" href="galatians.xhtml" media-type="application/xhtml+xml" />
+		<item id="ephesians" href="ephesians.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="thessalonians1" href="thessalonians1.xhtml" media-type="application/xhtml+xml" />
 		<item id="thessalonians2" href="thessalonians2.xhtml" media-type="application/xhtml+xml" />
@@ -61,6 +62,7 @@
 		<itemref idref="corinthians1" />
 		<itemref idref="corinthians2" />
 		<itemref idref="galatians" />
+		<itemref idref="ephesians" />
 
 		<itemref idref="thessalonians1" />
 		<itemref idref="thessalonians2" />
