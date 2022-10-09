@@ -32,7 +32,7 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 ✅Deuteronomy 12-14
 ✅Deuteronomy 15-18
 ✅Deuteronomy 19-22
-Deuteronomy 23-26
+✅Deuteronomy 23-26
 Deuteronomy 27-28
 Deuteronomy 29:1-31:29
 Deuteronomy 31:30-32:52, Psalms 90
@@ -225,7 +225,7 @@ Nehemiah 10-11, Psalms 147
 Nehemiah 13, Psalms 50
 Malachi
 
-Colossians
+
 Philemon, Philippians 1-2
 Philippians 3-4, 1 Timothy 1-2
 1 Timothy 3-6
