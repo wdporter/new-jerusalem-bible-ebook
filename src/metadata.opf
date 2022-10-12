@@ -35,6 +35,7 @@
 		<item id="colossians" href="colossians.xhtml" media-type="application/xhtml+xml" />
 		<item id="philemon" href="philemon.xhtml" media-type="application/xhtml+xml" />
 		<item id="philippians" href="philippians.xhtml" media-type="application/xhtml+xml" />
+		<item id="timothy1" href="timothy1.xhtml" media-type="application/xhtml+xml" />
 
 
 		<item id="hebrews" href="hebrews.xhtml" media-type="application/xhtml+xml" />
@@ -71,6 +72,7 @@
 		<itemref idref="colossians" />
 		<itemref idref="philemon" />
 		<itemref idref="philippians" />
+		<itemref idref="timothy1" />
 
 		<itemref idref="hebrews" />
 		<itemref idref="peter1" />
