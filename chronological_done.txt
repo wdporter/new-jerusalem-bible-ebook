@@ -33,8 +33,8 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 ✅Deuteronomy 15-18
 ✅Deuteronomy 19-22
 ✅Deuteronomy 23-26
-Deuteronomy 27-28
-Deuteronomy 29:1-31:29
+✅Deuteronomy 27-28
+✅Deuteronomy 29:1-31:29
 Deuteronomy 31:30-32:52, Psalms 90
 Deuteronomy 33-34, Joshua 1-2
 Joshua 3-6
@@ -226,7 +226,7 @@ Nehemiah 13, Psalms 50
 Malachi
 
 
-Philemon, Philippians 1-2
+✅Philippians 1-2
 Philippians 3-4, 1 Timothy 1-2
 1 Timothy 3-6
 Titus, 1 Peter 1:1-2:12
