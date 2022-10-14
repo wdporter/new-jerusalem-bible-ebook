@@ -41,10 +41,10 @@
 		<item id="titus" href="titus.xhtml" media-type="application/xhtml+xml" />
 		<item id="peter1" href="peter1.xhtml" media-type="application/xhtml+xml" />
 		<item id="jude" href="jude.xhtml" media-type="application/xhtml+xml" />
+		<item id="peter2" href="peter2.xhtml"  media-type="application/xhtml+xml" />
 
 
 		<item id="hebrews" href="hebrews.xhtml" media-type="application/xhtml+xml" />
-		<item id="peter2" href="peter2.xhtml"  media-type="application/xhtml+xml" />
 	</manifest>
 
 	<spine>
@@ -81,9 +81,9 @@
 		<itemref idref="titus" />
 		<itemref idref="peter1" />
 		<itemref idref="jude" />
+		<itemref idref="peter2" />
 
 		<itemref idref="hebrews" />
-		<itemref idref="peter2" />
 	</spine>
 	<guide />
 </package>
