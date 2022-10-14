@@ -14,6 +14,7 @@
 		<item id="leviticus" href="leviticus.xhtml" media-type="application/xhtml+xml" />
 		<item id="numbers" href="numbers.xhtml" media-type="application/xhtml+xml" />
 		<item id="deuteronomy" href="deuteronomy.xhtml" media-type="application/xhtml+xml" />
+		<item id="joshua" href="joshua.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="chronicles1" href="chronicles1.xhtml" media-type="application/xhtml+xml" />
 
@@ -52,6 +53,7 @@
 		<itemref idref="leviticus" />
 		<itemref idref="numbers" />
 		<itemref idref="deuteronomy" />
+		<itemref idref="joshua" />
 
 		<itemref idref="chronicles1" />
 
