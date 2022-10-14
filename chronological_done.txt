@@ -27,7 +27,7 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 ✅1 Chronicles 7:13-19, 1 Chronicles 7:20-29
 ✅Psalms 90
 ✅Joshua 1-2
-Joshua 3-6
+✅Joshua 3-6
 Joshua 7-9
 Joshua 10-12
 Joshua 13-15
@@ -216,8 +216,6 @@ Nehemiah 13, Psalms 50
 Malachi
 
 
-✅1 Peter 1:1-2:12
-1 Peter 2:13-5:14, Jude
 2 Peter, 2 Timothy 1
 2 Timothy 2-4, Hebrews 1
 Hebrews 2-6
