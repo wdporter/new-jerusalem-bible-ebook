@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
 		<dc:identifier opf:scheme="uuid" id="uuid_id">cdbab127-64be-4b29-ae13-f63f7cde3c74</dc:identifier>
-		<dc:title>Jerusalem Bible</dc:title>
-		<dc:creator opf:file-as="Jerusalem Bible" opf:role="aut">Jerusalem Bible</dc:creator>
+		<dc:title>New Jerusalem Bible</dc:title>
+		<dc:creator opf:file-as="New Jerusalem Bible" opf:role="aut">New Jerusalem Bible</dc:creator>
 		<dc:contributor opf:file-as="Porter, W. David" opf:role="bkp">David Porter</dc:contributor>
 		<dc:language>eng</dc:language>
 	</metadata>

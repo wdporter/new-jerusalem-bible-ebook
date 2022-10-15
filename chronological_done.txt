@@ -18,7 +18,7 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 ✅1 Chronicles 1:1-4
 ✅1 Chronicles 1:5-7, 1 Chronicles 1:8-16, 1 Chronicles 1:17-27
 ✅1 Chronicles 1:28-31
-✅1 Chronicles 1:32-34 
+✅1 Chronicles 1:32-34
 ✅1 Chronicles 1:35-54
 ✅1 Chronicles 2:1-2
 ✅1 Chronicles 5:1-6, 1 Chronicles 2:18-55
@@ -29,7 +29,7 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 ✅Joshua 1-2
 ✅Joshua 3-6
 ✅Joshua 7-9
-Joshua 10-12
+✅Joshua 10-12
 Joshua 13-15
 Joshua 16:1-19:9, 1 Chronicles 4:24-33, Joshua 19:10-31
 Joshua 19:32-21:45, 1 Chronicles 6:54-81
@@ -216,7 +216,7 @@ Nehemiah 13, Psalms 50
 Malachi
 
 
-2 Peter, 2 Timothy 1
+✅ 2 Timothy 1
 2 Timothy 2-4, Hebrews 1
 Hebrews 2-6
 Hebrews 7:1-10:18
