@@ -4,5 +4,14 @@
 		"editor.fontFamily": "Calibri",
 		"editor.fontSize": 18,
 		"editor.tabSize": 4,
-		"editor.fontLigatures": false
+		"editor.fontLigatures": false,
+		"spellright.language": [
+			"en"
+		],
+		"spellright.documentTypes": [
+			"markdown",
+			"latex",
+			"plaintext",
+			"html"
+		]
 }
