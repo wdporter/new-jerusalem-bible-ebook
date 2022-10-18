@@ -16,24 +16,19 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 
 [readings]
 ✅1 Chronicles 1:1-4
-✅1 Chronicles 1:5-7, 1 Chronicles 1:8-16, 1 Chronicles 1:17-27
+✅1 Chronicles 1:5-27
 ✅1 Chronicles 1:28-31
 ✅1 Chronicles 1:32-34
 ✅1 Chronicles 1:35-54
 ✅1 Chronicles 2:1-2
 ✅1 Chronicles 5:1-6, 1 Chronicles 2:18-55
-✅1 Chronicles 4:1-23, 1 Chronicles 7:1-5, 1 Chronicles 7:30-40, 1 Chronicles 7:6-12
+✅1 Chronicles 4:1-23, 1 Chronicles 7:1-12, 1 Chronicles 7:30-40
 ✅1 Chronicles 6:1-4a,
-✅1 Chronicles 7:13-19, 1 Chronicles 7:20-29
+✅1 Chronicles 7:13-29
 ✅Psalms 90
-✅Joshua 1-2
-✅Joshua 3-6
-✅Joshua 7-9
-✅Joshua 10-12
-✅Joshua 13-15
-✅Joshua 16:1-19:9, 1 Chronicles 4:24-33, Joshua 19:10-31
-✅Joshua 19:32-21:45, 1 Chronicles 6:54-81
-✅Joshua 22-24
+✅1 Chronicles 4:24-33, 
+✅1 Chronicles 6:54-81
+
 Judges 1:1-3:6, Judges 17
 Judges 18, Judges 3:7-4:24
 Judges 5-7
