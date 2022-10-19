@@ -46,6 +46,7 @@
 		<item id="timothy2" href="timothy2.xhtml" media-type="application/xhtml+xml" />
 		<item id="hebrews" href="hebrews.xhtml" media-type="application/xhtml+xml" />
 		<item id="john1" href="john1.xhtml" media-type="application/xhtml+xml" />
+		<item id="john2" href="john2.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
 	<spine>
@@ -87,6 +88,7 @@
 		<itemref idref="timothy2" />
 		<itemref idref="hebrews" />
 		<itemref idref="john1" />
+		<itemref idref="john2" />
 
 	</spine>
 	<guide />
