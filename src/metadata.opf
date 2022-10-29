@@ -24,6 +24,8 @@
 		<item id="job" href="job.xhtml" media-type="application/xhtml+xml" />
 		<item id="psalms" href="psalms.xhtml" media-type="application/xhtml+xml" />
 
+		<item id="wisdom" href="wisdom.xhtml" media-type="application/xhtml+xml" />
+
 		<item id="matthew" href="matthew.xhtml" media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml" media-type="application/xhtml+xml" />
 		<item id="luke" href="luke.xhtml" media-type="application/xhtml+xml" />
@@ -68,6 +70,8 @@
 
 		<itemref idref="job" />
 		<itemref idref="psalms" />
+
+		<itemref idref="wisdom" />
 
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
