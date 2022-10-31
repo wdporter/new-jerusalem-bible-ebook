@@ -18,6 +18,7 @@
 		<item id="judges" href="judges.xhtml" media-type="application/xhtml+xml" />
 		<item id="ruth" href="ruth.xhtml" media-type="application/xhtml+xml" />
 		<item id="samuel1" href="samuel1.xhtml" media-type="application/xhtml+xml" />
+		<item id="samuel2" href="samuel2.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="chronicles1" href="chronicles1.xhtml" media-type="application/xhtml+xml" />
 
@@ -65,6 +66,7 @@
 		<itemref idref="judges" />
 		<itemref idref="ruth" />
 		<itemref idref="samuel1" />
+		<itemref idref="samuel2" />
 
 		<itemref idref="chronicles1" />
 
