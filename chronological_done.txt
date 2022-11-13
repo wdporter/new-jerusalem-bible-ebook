@@ -63,7 +63,7 @@ from http://pricejh.com/readingplan/plans/new_plans.html
 ✅2 Samuel 16:16-17:23, Psalms 28, Psalms 41-43, Psalms 55, Psalms 64
 ✅2 Samuel 17:24-26, 1 Chronicles 2:17, 2 Samuel 17:27-18:18, Psalms 58, Psalms 61-62
 ✅2 Samuel 18:19-33, Psalms 39, Psalms 70, Psalms 71, Psalms 84, Psalms 143, 2 Samuel 19
-2 Samuel 20, Psalms 140-141, 1 Chronicles 22, Psalms 1, Psalms 29, Psalms 33
+✅2 Samuel 20, Psalms 140-141, 1 Chronicles 22, Psalms 1, Psalms 29, Psalms 33
 1 Chronicles 23:1-23, 1 Chronicles 6:16-30, 1 Chronicles 23:24-24:31
 1 Chronicles 25, 1 Chronicles 6:31-53, 1 Chronicles 26
 1 Chronicles 27:1-29:22, 1 Kings 1:1-27
@@ -189,7 +189,7 @@ Esther 1-4
 Esther 5:1-9:17
 Esther 9:18-10:3, Ezra 4:6-23, Psalms 105
 Psalms 106, Ezra 7:1-8:14
-Ezra 8:15-10:44, 1 Chronicles 3:17-24
+Ezra 8:15-10:44, ✅1 Chronicles 3:17-24
 Nehemiah 1-4
 Nehemiah 5:1-7:3, Psalms 107
 Psalms 111-112, Psalms 117, Psalms 119:1-72
