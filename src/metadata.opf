@@ -19,13 +19,23 @@
 		<item id="ruth" href="ruth.xhtml" media-type="application/xhtml+xml" />
 		<item id="samuel1" href="samuel1.xhtml" media-type="application/xhtml+xml" />
 		<item id="samuel2" href="samuel2.xhtml" media-type="application/xhtml+xml" />
+		<item id="kings1" href="kings1.xhtml" media-type="application/xhtml+xml" />
+		<item id="kings2" href="kings2.xhtml" media-type="application/xhtml+xml" />
+
 
 		<item id="chronicles1" href="chronicles1.xhtml" media-type="application/xhtml+xml" />
+		<item id="chronicles2" href="chronicles2.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="job" href="job.xhtml" media-type="application/xhtml+xml" />
 		<item id="psalms" href="psalms.xhtml" media-type="application/xhtml+xml" />
-
+		<item id="proverbs" href="proverbs.xhtml" media-type="application/xhtml+xml" />
+		<item id="ecclesiastes" href="ecclesiastes.xhtml" media-type="application/xhtml+xml" />
+		<item id="song" href="song.xhtml" media-type="application/xhtml+xml" />
 		<item id="wisdom" href="wisdom.xhtml" media-type="application/xhtml+xml" />
+
+
+		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
+		<item id="amos" href="amos.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="matthew" href="matthew.xhtml" media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml" media-type="application/xhtml+xml" />
@@ -53,6 +63,7 @@
 		<item id="john1" href="john1.xhtml" media-type="application/xhtml+xml" />
 		<item id="john2" href="john2.xhtml" media-type="application/xhtml+xml" />
 		<item id="john3" href="john3.xhtml" media-type="application/xhtml+xml" />
+		<item id="revelation" href="revelation.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
 	<spine>
@@ -67,13 +78,23 @@
 		<itemref idref="ruth" />
 		<itemref idref="samuel1" />
 		<itemref idref="samuel2" />
+		<itemref idref="kings1" />
+		<itemref idref="kings2" />
 
 		<itemref idref="chronicles1" />
+		<itemref idref="chronicles2" />
 
 		<itemref idref="job" />
 		<itemref idref="psalms" />
+		<itemref idref="proverbs" />
+		<itemref idref="ecclesiastes" />
+		<itemref idref="song" />
 
 		<itemref idref="wisdom" />
+
+		<itemref idref="joel" />
+		<itemref idref="amos" />
+
 
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
@@ -101,7 +122,7 @@
 		<itemref idref="john1" />
 		<itemref idref="john2" />
 		<itemref idref="john3" />
-
+		<itemref idref="revelation" />
 	</spine>
 	<guide />
 </package>
