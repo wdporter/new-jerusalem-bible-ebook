@@ -33,6 +33,8 @@
 		<item id="song" href="song.xhtml" media-type="application/xhtml+xml" />
 		<item id="wisdom" href="wisdom.xhtml" media-type="application/xhtml+xml" />
 
+		<item id="isaiah" href="isaiah.xhtml" media-type="application/xhtml+xml" />
+
 
 		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
 		<item id="amos" href="amos.xhtml" media-type="application/xhtml+xml" />
@@ -91,8 +93,9 @@
 		<itemref idref="proverbs" />
 		<itemref idref="ecclesiastes" />
 		<itemref idref="song" />
-
 		<itemref idref="wisdom" />
+
+		<itemref idref="isaiah" />
 
 		<itemref idref="joel" />
 		<itemref idref="amos" />
