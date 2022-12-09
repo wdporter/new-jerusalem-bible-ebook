@@ -37,6 +37,8 @@
 		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
 		<item id="amos" href="amos.xhtml" media-type="application/xhtml+xml" />
 
+		<item id="jonah" href="jonah" media-type="application/xhtml+xml" />
+
 		<item id="matthew" href="matthew.xhtml" media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml" media-type="application/xhtml+xml" />
 		<item id="luke" href="luke.xhtml" media-type="application/xhtml+xml" />
@@ -95,6 +97,7 @@
 		<itemref idref="joel" />
 		<itemref idref="amos" />
 
+		<itemref idref="jonah" />
 
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
