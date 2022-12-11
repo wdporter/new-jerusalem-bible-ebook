@@ -35,11 +35,12 @@
 
 		<item id="isaiah" href="isaiah.xhtml" media-type="application/xhtml+xml" />
 
-
+		<item id="hosea" href="hosea.xhtml" media-type="application/xhtml+xml" />
 		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
 		<item id="amos" href="amos.xhtml" media-type="application/xhtml+xml" />
 
-		<item id="jonah" href="jonah" media-type="application/xhtml+xml" />
+		<item id="jonah" href="jonah.html" media-type="application/xhtml+xml" />
+		<item id="micah" href="micah.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="matthew" href="matthew.xhtml" media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml" media-type="application/xhtml+xml" />
@@ -97,10 +98,12 @@
 
 		<itemref idref="isaiah" />
 
+		<itemref idref="hosea" />
 		<itemref idref="joel" />
 		<itemref idref="amos" />
 
 		<itemref idref="jonah" />
+		<itemref idref="micah" />
 
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
