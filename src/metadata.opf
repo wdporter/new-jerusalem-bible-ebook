@@ -44,6 +44,8 @@
 		<item id="jonah" href="jonah.html" media-type="application/xhtml+xml" />
 		<item id="micah" href="micah.xhtml" media-type="application/xhtml+xml" />
 
+		<item id="zephaniah" href="zephaniah.xhtml" media-type="application/xhtml+xml" />
+
 		<item id="matthew" href="matthew.xhtml" media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml" media-type="application/xhtml+xml" />
 		<item id="luke" href="luke.xhtml" media-type="application/xhtml+xml" />
@@ -107,6 +109,8 @@
 
 		<itemref idref="jonah" />
 		<itemref idref="micah" />
+
+		<itemref idref="zephaniah" />
 
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
