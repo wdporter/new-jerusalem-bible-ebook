@@ -36,6 +36,7 @@
 		<item id="wisdom" href="wisdom.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="isaiah" href="isaiah.xhtml" media-type="application/xhtml+xml" />
+		<item id="jeremiah" href="jeremiah.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="hosea" href="hosea.xhtml" media-type="application/xhtml+xml" />
 		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
@@ -43,6 +44,7 @@
 
 		<item id="jonah" href="jonah.html" media-type="application/xhtml+xml" />
 		<item id="micah" href="micah.xhtml" media-type="application/xhtml+xml" />
+		<item id="nahum" href="nahum.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="zephaniah" href="zephaniah.xhtml" media-type="application/xhtml+xml" />
 
@@ -102,6 +104,7 @@
 		<itemref idref="wisdom" />
 
 		<itemref idref="isaiah" />
+		<itemref idref="jeremiah" />
 
 		<itemref idref="hosea" />
 		<itemref idref="joel" />
@@ -109,6 +112,7 @@
 
 		<itemref idref="jonah" />
 		<itemref idref="micah" />
+		<itemref idref="nahum" />
 
 		<itemref idref="zephaniah" />
 
