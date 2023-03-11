@@ -38,6 +38,7 @@
 		<item id="isaiah" href="isaiah.xhtml" media-type="application/xhtml+xml" />
 		<item id="jeremiah" href="jeremiah.xhtml" media-type="application/xhtml+xml" />
 
+		<item id="daniel" href="daniel.xhtml" media-type="application/xhtml+xml" />
 		<item id="hosea" href="hosea.xhtml" media-type="application/xhtml+xml" />
 		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
 		<item id="amos" href="amos.xhtml" media-type="application/xhtml+xml" />
@@ -106,6 +107,7 @@
 		<itemref idref="isaiah" />
 		<itemref idref="jeremiah" />
 
+		<itemref idref="daniel" />
 		<itemref idref="hosea" />
 		<itemref idref="joel" />
 		<itemref idref="amos" />
