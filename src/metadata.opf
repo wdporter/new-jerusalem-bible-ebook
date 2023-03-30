@@ -39,7 +39,7 @@
 		<item id="jeremiah" href="jeremiah.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="baruch" href="baruch.xhtml" media-type="application/xhtml+xml" />
-
+		<item id="ezekiel" href="ezekiel.xhtml" media-type="application/xhtml+xml" />
 		<item id="daniel" href="daniel.xhtml" media-type="application/xhtml+xml" />
 		<item id="hosea" href="hosea.xhtml" media-type="application/xhtml+xml" />
 		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
@@ -110,7 +110,7 @@
 		<itemref idref="jeremiah" />
 
 		<itemref idref="baruch" />
-
+		<itemref idref="ezekiel" />
 		<itemref idref="daniel" />
 		<itemref idref="hosea" />
 		<itemref idref="joel" />
