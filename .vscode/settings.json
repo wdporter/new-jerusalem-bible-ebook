@@ -6,11 +6,13 @@
 		"editor.tabSize": 4,
 		"editor.fontLigatures": false,
 		"spellright.language": [
-			"en"
+			"en-AU"
 		],
 		"spellright.documentTypes": [
 			"markdown",
 			"latex",
-			"html"
-		]
+			"html",
+			"jsonc"
+		],
+		"spellright.groupDictionaries": false
 }
