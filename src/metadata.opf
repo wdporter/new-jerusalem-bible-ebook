@@ -22,7 +22,6 @@
 		<item id="kings1" href="kings1.xhtml" media-type="application/xhtml+xml" />
 		<item id="kings2" href="kings2.xhtml" media-type="application/xhtml+xml" />
 
-
 		<item id="chronicles1" href="chronicles1.xhtml" media-type="application/xhtml+xml" />
 		<item id="chronicles2" href="chronicles2.xhtml" media-type="application/xhtml+xml" />
 
@@ -37,7 +36,7 @@
 
 		<item id="isaiah" href="isaiah.xhtml" media-type="application/xhtml+xml" />
 		<item id="jeremiah" href="jeremiah.xhtml" media-type="application/xhtml+xml" />
-
+		<item id="lamentations" href="lamentations.xhtml" media-type="application/xhtml+xml" />
 		<item id="baruch" href="baruch.xhtml" media-type="application/xhtml+xml" />
 		<item id="ezekiel" href="ezekiel.xhtml" media-type="application/xhtml+xml" />
 		<item id="daniel" href="daniel.xhtml" media-type="application/xhtml+xml" />
@@ -108,7 +107,7 @@
 
 		<itemref idref="isaiah" />
 		<itemref idref="jeremiah" />
-
+		<itemref idref="lamentations" />
 		<itemref idref="baruch" />
 		<itemref idref="ezekiel" />
 		<itemref idref="daniel" />
