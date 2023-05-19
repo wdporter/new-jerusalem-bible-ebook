@@ -21,11 +21,10 @@
 		<item id="samuel2" href="samuel2.xhtml" media-type="application/xhtml+xml" />
 		<item id="kings1" href="kings1.xhtml" media-type="application/xhtml+xml" />
 		<item id="kings2" href="kings2.xhtml" media-type="application/xhtml+xml" />
-
 		<item id="chronicles1" href="chronicles1.xhtml" media-type="application/xhtml+xml" />
 		<item id="chronicles2" href="chronicles2.xhtml" media-type="application/xhtml+xml" />
 		<item id="ezra" href="ezra.xhtml" media-type="application/xhtml+xml" />
-
+		<item id="nehemiah" href="nehemiah.xhtml" media-type="application/xhtml+xml" />
 		<item id="tobit" href="tobit.xhtml" media-type="application/xhtml+xml" />
 		<item id="judith" href="judith.xhtml" media-type="application/xhtml+xml" />
 
@@ -98,7 +97,7 @@
 		<itemref idref="chronicles1" />
 		<itemref idref="chronicles2" />
 		<itemref idref="ezra" />
-
+		<itemref idref="nehemiah" />
 		<itemref idref="tobit" />
 		<itemref idref="judith" />
 
