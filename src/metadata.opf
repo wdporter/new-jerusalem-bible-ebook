@@ -50,6 +50,7 @@
 		<item id="nahum" href="nahum.xhtml" media-type="application/xhtml+xml" />
 		<item id="habakkuk" href="habakkuk.xhtml" media-type="application/xhtml+xml" />
 		<item id="zephaniah" href="zephaniah.xhtml" media-type="application/xhtml+xml" />
+		<item id="haggai" href="haggai.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="matthew" href="matthew.xhtml" media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml" media-type="application/xhtml+xml" />
@@ -123,7 +124,8 @@
 		<itemref idref="nahum" />
 		<itemref idref="habakkuk" />
 		<itemref idref="zephaniah" />
-
+		<itemref idref="haggai" />
+		
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
 		<itemref idref="luke" />
