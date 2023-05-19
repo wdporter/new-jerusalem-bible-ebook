@@ -27,6 +27,7 @@
 		<item id="nehemiah" href="nehemiah.xhtml" media-type="application/xhtml+xml" />
 		<item id="tobit" href="tobit.xhtml" media-type="application/xhtml+xml" />
 		<item id="judith" href="judith.xhtml" media-type="application/xhtml+xml" />
+		<item id="esther" href="esther.xhtml" media-type="application/xhtml+xml" />
 
 		<item id="job" href="job.xhtml" media-type="application/xhtml+xml" />
 		<item id="psalms" href="psalms.xhtml" media-type="application/xhtml+xml" />
@@ -102,7 +103,8 @@
 		<itemref idref="nehemiah" />
 		<itemref idref="tobit" />
 		<itemref idref="judith" />
-
+		<itemref idref="esther" />
+		
 		<itemref idref="job" />
 		<itemref idref="psalms" />
 		<itemref idref="proverbs" />
