@@ -53,7 +53,7 @@
 		<item id="zephaniah" href="zephaniah.xhtml" media-type="application/xhtml+xml" />
 		<item id="haggai" href="haggai.xhtml" media-type="application/xhtml+xml" />
 		<item id="zechariah" href="zechariah.xhtml" media-type="application/xhtml+xml" />
-
+		<item id="malachi" href="malachi.xhtml" media-type="application/xhtml+xml" />
 		<item id="matthew" href="matthew.xhtml" media-type="application/xhtml+xml" />
 		<item id="mark" href="mark.xhtml" media-type="application/xhtml+xml" />
 		<item id="luke" href="luke.xhtml" media-type="application/xhtml+xml" />
@@ -129,7 +129,7 @@
 		<itemref idref="zephaniah" />
 		<itemref idref="haggai" />
 		<itemref idref="zechariah" />
-
+		<itemref idref="malachi" />
 		<itemref idref="matthew" />
 		<itemref idref="mark" />
 		<itemref idref="luke" />
