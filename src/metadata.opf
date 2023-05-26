@@ -36,7 +36,7 @@
 		<item id="ecclesiastes" href="ecclesiastes.xhtml" media-type="application/xhtml+xml" />
 		<item id="song" href="song.xhtml" media-type="application/xhtml+xml" />
 		<item id="wisdom" href="wisdom.xhtml" media-type="application/xhtml+xml" />
-
+		<item id="ecclesiasticus" href="ecclesiasticus.xhtml" media-type="application/xhtml+xml" />
 		<item id="isaiah" href="isaiah.xhtml" media-type="application/xhtml+xml" />
 		<item id="jeremiah" href="jeremiah.xhtml" media-type="application/xhtml+xml" />
 		<item id="lamentations" href="lamentations.xhtml" media-type="application/xhtml+xml" />
@@ -113,7 +113,7 @@
 		<itemref idref="ecclesiastes" />
 		<itemref idref="song" />
 		<itemref idref="wisdom" />
-
+		<itemref idref="ecclesiasticus" />
 		<itemref idref="isaiah" />
 		<itemref idref="jeremiah" />
 		<itemref idref="lamentations" />
