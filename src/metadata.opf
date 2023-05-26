@@ -29,6 +29,7 @@
 		<item id="judith" href="judith.xhtml" media-type="application/xhtml+xml" />
 		<item id="esther" href="esther.xhtml" media-type="application/xhtml+xml" />
 		<item id="maccabees1" href="maccabees1.xhtml" media-type="application/xhtml+xml" />
+		<item id="maccabees2" href="maccabees2.xhtml" media-type="application/xhtml+xml" />
 		<item id="job" href="job.xhtml" media-type="application/xhtml+xml" />
 		<item id="psalms" href="psalms.xhtml" media-type="application/xhtml+xml" />
 		<item id="proverbs" href="proverbs.xhtml" media-type="application/xhtml+xml" />
@@ -105,6 +106,7 @@
 		<itemref idref="judith" />
 		<itemref idref="esther" />
 		<itemref idref="maccabees1" />
+		<itemref idref="maccabees2" />
 		<itemref idref="job" />
 		<itemref idref="psalms" />
 		<itemref idref="proverbs" />
