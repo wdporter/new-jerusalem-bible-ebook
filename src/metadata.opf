@@ -6,8 +6,10 @@
 		<dc:creator opf:file-as="New Jerusalem Bible" opf:role="aut">New Jerusalem Bible</dc:creator>
 		<dc:contributor opf:file-as="Porter, W. David" opf:role="bkp">David Porter</dc:contributor>
 		<dc:language>eng</dc:language>
+	    <meta name="cover" content="cover"/>
 	</metadata>
 	<manifest>
+	    <item href="cover.jpg" id="cover" media-type="image/jpeg" />
 		<item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml" />
 		<item id="genesis" href="genesis.xhtml" media-type="application/xhtml+xml" />
 		<item id="exodus" href="exodus.xhtml" media-type="application/xhtml+xml" />
@@ -47,7 +49,7 @@
 		<item id="joel" href="joel.xhtml" media-type="application/xhtml+xml" />
 		<item id="amos" href="amos.xhtml" media-type="application/xhtml+xml" />
 		<item id="obadiah" href="obadiah.xhtml" media-type="application/xhtml+xml" />
-		<item id="jonah" href="jonah.html" media-type="application/xhtml+xml" />
+		<item id="jonah" href="jonah.xhtml" media-type="application/xhtml+xml" />
 		<item id="micah" href="micah.xhtml" media-type="application/xhtml+xml" />
 		<item id="nahum" href="nahum.xhtml" media-type="application/xhtml+xml" />
 		<item id="habakkuk" href="habakkuk.xhtml" media-type="application/xhtml+xml" />

@@ -4,6 +4,7 @@ module.exports = config => {
   config.addPassthroughCopy("src/metadata.opf")
   config.addPassthroughCopy("src/mimetype")
   config.addPassthroughCopy("src/toc.ncx")
+  config.addPassthroughCopy("src/cover.jpg")
 
   return {
 
